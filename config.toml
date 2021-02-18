@@ -139,4 +139,3 @@ currencySymbol = "$"
   # Contact Form
   [params.contact]
   formAction = "#" # contact form works with formspree.io
-=======
