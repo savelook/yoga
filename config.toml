@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://yoga-six.vercel.app"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Yoga-House Columbia"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -84,7 +84,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "ALL ABILITIES, ALL BODIES, ALL AGES"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "410.720.4340"
+email = "info@yoga-six.vercel.app"
+location = "Columbia, MD 21045"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 yoga-six.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
