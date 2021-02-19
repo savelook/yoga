@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://yoga-six.vercel.app"
 languageCode = "en"
-title = "Yoga-House Columbia"
+title = "IMAGE NOW. Age later. &ndash; Image Skincare Online"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
