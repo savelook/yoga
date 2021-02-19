@@ -11,7 +11,7 @@ price: "20.00"
 priceBefore: "25.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "ORMEDIC balancing biopeptide crème"
 
 #product ID
 productID: "9"
@@ -28,8 +28,24 @@ images:
   - image: "images/products/product-4.png"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+This repair crème boosts and balances moisture-depleted skin with botanical butters, hyaluronic acid and organic plant oils. A unique highlighter-effect peptide brings renewed clarity and uniformity to the skin. A comprehensive formula to support a healthy, dewy complexion.
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+CLINICALLY PROVEN TO:
+Improve hydration by 24%*
+Improve luminosity by 16%*
+Decrease transepidermal water loss by 19%*
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+IN A CONSUMER PANEL:
+
+94% agreed the product improves skin tone*
+
+93% reported that skin feels softer*
+
+93% reported that skin is more hydrated/moisturized*
+
+BENEFITS:
+-Featuring a lit-from-within look from a tetrapeptide complex that promotes radiance and luminosity
+-Rich, velvety texture sinks in quickly, making it easy to enjoy before/during/after a long day
+-Boosts and balances moisture-depleted skin
+
+*Based on a 4-week clinical study and consumer panel of 30 female participants. All photos taken at a third-party independent clinical testing laboratory. Photos have not been retouched. Study data on file with Image International Manufacturing, LLC.
