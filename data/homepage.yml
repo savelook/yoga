@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "MOISTURIZERS & CREAMS"
+  content : "Reparative and restorative hydration for day & night"
   image : "images/banner.png"
   # button
   button:
@@ -13,15 +12,13 @@ banner:
   # demo video
   video:
     enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    videoURL : "https://www.youtube.com/watch?v=YAzSHsvwjVE"
 
 ########################## About ##############################
 about:
   enable : true
   title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  content : "IMAGE Skincare is a clinical skincare brand powered by proven ingredients and smart botanicals. We’ve pioneered clean clinical skincare™, with naturally effective, mindful formulas that deliver real results. Our products are physician formulated and tried, true and tested by a team of professionals to help you feel the most confident in your skincare—and your skin."
   image : "images/about.png"
 
 
@@ -40,34 +37,33 @@ cta:
 material:
   enable : true
   title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  subtitle : "All naturale"
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "naturale"
       
     # material item loop
     - title : "Aloe Vera"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "naturale"
       
     # material item loop
     - title : "Turmeric"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "naturale"
       
     # material item loop
     - title : "Tulshi leaf"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "naturale"
 
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Advantages Of Using"
+  subtitle : "Our Product"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
@@ -83,10 +79,9 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Watch video"
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "https://www.youtube.com/watch?v=j_8DGkpskig"
 
 
 ######################## Products #############################
@@ -104,27 +99,27 @@ testimonial:
     # testimonial item loop
     - name : "Angelo Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Client"
+      content : "Love it! Review by Tahir K. on 20 Dec 2020review stating Love it!This serum performs so well that I can actually use this as my moisturizer. It leaves my skin radiant and beautiful and I absolutely love it!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Client"
+      content : "I do feel like this product keeps my skin fresh and not dull"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Client"
+      content : "We all know that Vitamin C is a real skincare powerhouse, but I found out that not all serums are created equal. I’ve used some vitamin C products making no difference to my skin whatsoever. This one is an exception (finally!)."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      designation : "Client"
+      content : "This stuff is AWESOME! I absolutely LOVE it!"
       rating : "four" # rating star, one to five
