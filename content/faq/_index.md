@@ -7,4 +7,4 @@ description : "this is a meta description"
 
 ### Frequently Asked Questions
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to demo@email.com
+We are a clinical skincare brand, powered by safe, proven ingredients and smart botanicals – for your healthiest skin, ever. We cut out what your skin doesn’t need, we source everything with intention, and we don’t test on animals.
