@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://ageyang.vercel.app/"
+baseURL = "https://ouragan.vercel.app/"
 languageCode = "en"
-title = "IMAGE NOW. Age later. &ndash; Image Skincare Online"
+title = "Ouragan Store Columbia"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "410.720.4340"
-email = "info@yoga-six.vercel.app"
-location = "Columbia, MD 21045"
+mobile = "515.543.1212"
+email = "info@ouragan.vercel.app"
+location = "Columbia, MD 34650"
 # copyright
-copyright = "| Copyright &copy; 2021 yoga-six.vercel.app All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 ouragan.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
