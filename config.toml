@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ouragan.vercel.app/"
+baseURL = "https://yoga-six.vercel.app/"
 languageCode = "en"
 title = "Ouragan Store Columbia"
 theme = "Themefisher"
