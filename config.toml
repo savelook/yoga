@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://yoga-six.vercel.app/"
+baseURL = "https://ronewss.vercel.app/"
 languageCode = "en"
-title = "Ouragan Store Columbia"
+title = "Romania newss"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -95,10 +95,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "515.543.1212"
-email = "info@ouragan.vercel.app"
-location = "Columbia, MD 34650"
+email = "info@ronewss.vercel.app"
+location = "Romania, RO 34650"
 # copyright
-copyright = "| Copyright &copy; 2021 ouragan.vercel.app All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 ronewss.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
