@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://ronewss.vercel.app/"
+baseURL = "https://greecenews.vercel.app/"
 languageCode = "en"
-title = "Romania newss"
+title = "Greece newss"
 theme = "Themefisher"
 summaryLength = "20"
 paginate = 10
@@ -95,10 +95,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "515.543.1212"
-email = "info@ronewss.vercel.app"
-location = "Romania, RO 34650"
+email = "info@greecenews.vercel.app"
+location = "Greece, RO 34650"
 # copyright
-copyright = "| Copyright &copy; 2021 ronewss.vercel.app All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 greecenews.vercel.app All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
